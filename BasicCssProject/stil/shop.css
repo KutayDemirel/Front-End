@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    background-color: lightblue;
+    font-family: monospace;
+    font-size: 40px;
+}
+h2 ,hr {
+    color: lightblue;
+}
+
+h3 {
+    color :darkgoldenrod;
+}
+
+a {
+    color : hotpink;
+    font-family: sans-serif;
+}
+
+section{
+    font-size: 18px;
+    color : rgba(255, 255, 255, 0.7);   
+}
+
+ol, ul {
+    list-style-position:inside;
+}
+
